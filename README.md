@@ -15,5 +15,5 @@ My Unity Project back when I was hired in 2018 going to be updated
 
 Right now I am my every project so that I would know what I have and what needs to be updated
 
-(Project is very cluncy)
+(Project is very cluncky :D)
 ----------------------------
